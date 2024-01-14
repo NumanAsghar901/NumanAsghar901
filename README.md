@@ -1,4 +1,4 @@
-
+![logo](https://github.com/NumanAsghar901/NumanAsghar901/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Muhammad Numan Asghar</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fdb14256522b06ad3572735ebdb50d4e-1689865671/ENTREGABLE_V4/do-a-beautiful-animated-gif-in-pixelart-for-streamings.gif" >
