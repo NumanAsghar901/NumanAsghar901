@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **numanasghar901@gmail.com**
 
-- ⚡ Fun fact **I'm Funny 😍**
+- ⚡ Fun fact **"Architecting the future, one line of code at a time, with a touch of hacker spirit."😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
