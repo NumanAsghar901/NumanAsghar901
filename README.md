@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numanasghar901&label=Profile%20views&color=0e75b6&style=flat" alt="numanasghar901" /> </p>
 
-- 🌱 I’m currently learning **C++ (Data Structures and Algorithms) & Assembly Language**
+- 🌱 I’m currently learning **C++ (Data Structures and Algorithms) & Database**
 
 - 📫 How to reach me **numanasghar901@gmail.com**
 
